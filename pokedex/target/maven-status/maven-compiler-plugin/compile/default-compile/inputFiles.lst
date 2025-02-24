@@ -1,0 +1,8 @@
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/DataLoader/PokemonDataLoader.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/PokedexApplication.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/controller/PokemonController.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/dto/PokemonDTO.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/dto/PokemonDetailDTO.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/model/Pokemon.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/repository/PokemonRepository.java
+/Users/amruabd/Projekten/pokodexJava/pokedex/src/main/java/com/example/pokedex/service/PokemonService.java

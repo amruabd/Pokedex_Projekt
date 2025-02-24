@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.example.pokedex.service.PokemonServiceTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.98 s <<< FAILURE! -- in com.example.pokedex.service.PokemonServiceTest
+com.example.pokedex.service.PokemonServiceTest.testDeletePokemon -- Time elapsed: 0.005 s <<< ERROR!
+jakarta.persistence.EntityNotFoundException: Pokemon nicht gefunden mit ID: 1
+	at com.example.pokedex.service.PokemonService.lambda$getPokemonById$0(PokemonService.java:55)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at com.example.pokedex.service.PokemonService.getPokemonById(PokemonService.java:55)
+	at com.example.pokedex.service.PokemonService.deletePokemon(PokemonService.java:90)
+	at com.example.pokedex.service.PokemonServiceTest.testDeletePokemon(PokemonServiceTest.java:135)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
